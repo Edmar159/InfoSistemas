@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/13 10:18:37.000.490,=C:\Users\Dema1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:27:30.000.576,C:\Users\Dema1\Desktop\Info Sistemas\UDadosCadastrais.dfm=C:\Users\Dema1\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/13 10:27:30.000.576,C:\Users\Dema1\Desktop\Info Sistemas\UDadosCadastrais.pas=C:\Users\Dema1\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 10:27:46.000.949,C:\Users\Dema1\Desktop\Info Sistemas\Info.dproj=C:\Users\Dema1\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/13 14:10:09.000.904,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 14:27:41.000.353,C:\Users\Dema1\Desktop\Info Sistemas\DadosCadastraisDM.dfm=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.dfm</Transaction>
+    <Transaction>2021/11/13 14:27:41.000.353,C:\Users\Dema1\Desktop\Info Sistemas\DadosCadastraisDM.pas=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 18:33:20.000.274,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 18:33:43.000.216,C:\Users\Dema1\Desktop\Info Sistemas\UConsomeApi.pas=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 20:05:31.000.842,C:\Users\Dema1\Desktop\Info Sistemas\UConsomeApi.pas=</Transaction>
+    <Transaction>2021/11/13 21:25:41.000.410,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 21:25:52.000.073,C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas=C:\Users\Dema1\Desktop\Info Sistemas\UConsomeApi.pas</Transaction>
+    <Transaction>2021/11/13 23:21:03.000.414,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 23:21:16.000.888,C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas=C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas</Transaction>
+    <Transaction>2021/11/13 23:24:12.000.846,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 23:24:17.000.880,=C:\Users\Dema1\Desktop\Info Sistemas\Unit2.pas</Transaction>
+    <Transaction>2021/11/13 23:24:40.000.221,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=</Transaction>
+    <Transaction>2021/11/13 23:24:50.000.760,C:\Users\Dema1\Desktop\Info Sistemas\Unit2.dfm=C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.dfm</Transaction>
+    <Transaction>2021/11/13 23:24:50.000.760,C:\Users\Dema1\Desktop\Info Sistemas\Unit2.pas=C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas</Transaction>
+    <Transaction>2021/11/13 23:46:14.000.144,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=</Transaction>
+    <Transaction>2021/11/13 23:46:18.000.426,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/13 23:46:28.000.814,C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas=C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas</Transaction>
+    <Transaction>2021/11/14 20:17:13.000.620,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 20:17:31.000.642,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=</Transaction>
+    <Transaction>2021/11/14 20:17:46.000.686,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 23:48:49.000.004,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/14 23:49:00.000.324,C:\Users\Dema1\Desktop\Info Sistemas\UHelpers.pas=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 01:04:54.000.411,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 01:05:03.000.540,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=</Transaction>
+    <Transaction>2021/11/15 01:05:09.000.184,C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas=C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas</Transaction>
+    <Transaction>2021/11/15 02:19:14.000.029,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=</Transaction>
+    <Transaction>2021/11/15 02:19:21.000.713,=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 02:19:53.000.393,C:\Users\Dema1\Desktop\Info Sistemas\UEnviaEmail.pas=C:\Users\Dema1\Desktop\Info Sistemas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
